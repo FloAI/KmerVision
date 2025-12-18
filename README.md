@@ -1,6 +1,3 @@
-Here’s a clean, professional **README.md** you can use for the dataset. It’s written in a style suitable for a thesis or public Roboflow project.
-
----
 
 # KmerVision (Annotated)
 
